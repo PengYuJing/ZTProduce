@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/action/common/filter/LoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/action/common/persistence/interceptor/BaseInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/action/modules/sys/service/SystemService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/action/modules/sys/web/UserController.java" charset="GBK" />
+  </component>
+</project>

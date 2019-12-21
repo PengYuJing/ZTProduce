@@ -1,0 +1,7 @@
+*.jar
+*.class
+bin
+
+# Project exclude paths
+/build/classes/
+/classes/
